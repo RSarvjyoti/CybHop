@@ -11,7 +11,6 @@ const data = {
       label: "Expenses",
       data: Array.from({ length: 25 }, () => Math.floor(Math.random() * 500) + 100), 
       backgroundColor: "rgba(59, 130, 246, 0.6)", 
-      borderRadius: 5,
       barThickness: 10, 
     },
   ],
